@@ -23,5 +23,6 @@ A boy is sitting being sad as he can’t solve his rubik’s cube. Cubirdie is h
 ### Keyboard Function
 * After the handkerchief is dropped on the cube if we press the up-arrow on the keyboard, the boy will raise the handkerchief.
 
-#### Note
+
+### Note
 To run this project you need to have “codeblocks” installed in your system and you have to setup “OpenGL (GLUT)” in it. Download the file. Now, Open codeblocks > click on ‘open an existing project’ > select the ‘cubirdie.cbp’ file > run the project
